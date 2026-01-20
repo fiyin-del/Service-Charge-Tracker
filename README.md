@@ -92,6 +92,10 @@ This project is suitable for:
 * Supported accommodation services
 * Administrative or finance teams
 
+## Limitations
+* Requires Google Workspace
+* Email reminders depend on triggers
+  
 ## Disclaimer
 This tool is intended for internal administrative use and does not replace professional accounting software.
 
