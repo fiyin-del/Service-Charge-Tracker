@@ -1,5 +1,5 @@
 # Service Charge Tracker (Google Sheets Automation)
-## Execution of application
+## Quick start
 1. Download templates/Service_Charge_Tracker_Template.xlsx
 2. Upload it to Google Sheets
 3. Open Extensions → Apps Script
