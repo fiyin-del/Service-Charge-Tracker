@@ -1,4 +1,12 @@
 # Service Charge Tracker (Google Sheets Automation)
+## Execution of application
+1. Download templates/Service_Charge_Tracker_Template.xlsx
+2. Upload it to Google Sheets
+3. Open Extensions → Apps Script
+4. Paste the contents of Code.gs
+5. Authorise the script
+
+Set the daily email trigger
 ## Overview
 This project is a Google Sheets–based service charge management system built using **Google Apps Script**. It automates payment tracking, coverage calculations, arrears monitoring, and email reminders for upcoming payments.
 The solution is designed for organisations managing recurring service charges and needing a lightweight, auditable, and low-cost system without a full backend.
